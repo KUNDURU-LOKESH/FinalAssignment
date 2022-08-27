@@ -1,0 +1,10 @@
+W
+ND:\WebApps\ClassLibraryUniversity\Test\Controllers\UniversityControllerTest.csutf-8R
+ID:\WebApps\ClassLibraryUniversity\Test\Controllers\UsersControllerTest.csutf-8J
+AD:\WebApps\ClassLibraryUniversity\Test\TestData\TestController.csutf-8<
+3D:\WebApps\ClassLibraryUniversity\Test\UnitTest1.csutf-89
+0D:\WebApps\ClassLibraryUniversity\Test\Usings.csutf-8|
+qC:\Users\Dell\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8Y
+ND:\WebApps\ClassLibraryUniversity\Test\obj\Debug\net6.0\Test.GlobalUsings.g.csutf-8q
+fD:\WebApps\ClassLibraryUniversity\Test\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8W
+LD:\WebApps\ClassLibraryUniversity\Test\obj\Debug\net6.0\Test.AssemblyInfo.csutf-8

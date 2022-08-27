@@ -1,0 +1,16 @@
+﻿D:\WebApps\ClassLibraryUniversity\UniversityApi\Controllers\AccountController.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Controllers\UniversityApiController.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Controllers\UserAPiController.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Controllers\WeatherForecastController.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Mapper\MapperClass.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Program.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\ViewModels\LoginViewModel.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\ViewModels\UserViewModel.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\WeatherForecast.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\obj\Debug\net6.0\UniversityApi.GlobalUsings.g.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\obj\Debug\net6.0\UniversityApi.AssemblyInfo.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\obj\Debug\net6.0\UniversityApi.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApps\ClassLibraryUniversity\UniversityApi\appsettings.Development.json
+D:\WebApps\ClassLibraryUniversity\UniversityApi\appsettings.json
+D:\WebApps\ClassLibraryUniversity\UniversityApi\Properties\launchSettings.json

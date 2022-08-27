@@ -1,0 +1,13 @@
+j
+aD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827113545_intial.csutf-8u
+jD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827113545_intial.Designer.csutf-8l
+cD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827115637_addfield.csutf-8w
+lD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827115637_addfield.Designer.csutf-8w
+lD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\UniversityDbContextModelSnapshot.csutf-8U
+LD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\RoleMaster.csutf-8U
+LD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\University.csutf-8^
+UD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\UniversityDbContext.csutf-8P
+GD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\Users.csutf-8}
+rD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\obj\Debug\net6.0\ClassLibraryUniversity.GlobalUsings.g.csutf-8ƒ
+xD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8{
+pD:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\obj\Debug\net6.0\ClassLibraryUniversity.AssemblyInfo.csutf-8

@@ -1,0 +1,9 @@
+﻿D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827113545_intial.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827113545_intial.Designer.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827115637_addfield.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\20220827115637_addfield.Designer.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Data\Migrations\UniversityDbContextModelSnapshot.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\RoleMaster.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\University.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\UniversityDbContext.cs
+D:\WebApps\ClassLibraryUniversity\ClassLibraryUniversity\Model\Users.cs

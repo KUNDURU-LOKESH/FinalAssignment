@@ -1,0 +1,6 @@
+projectKey=finalAssesment
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=finalAssesment
+ceTaskId=AYLffz6EUyHbLllyFe-s
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLffz6EUyHbLllyFe-s
